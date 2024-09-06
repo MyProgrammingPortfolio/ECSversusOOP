@@ -1,0 +1,14 @@
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\bin\Debug\net8.0\ECS.exe
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\bin\Debug\net8.0\ECS.deps.json
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\bin\Debug\net8.0\ECS.runtimeconfig.json
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\bin\Debug\net8.0\ECS.dll
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\bin\Debug\net8.0\ECS.pdb
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ECS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ECS.AssemblyInfoInputs.cache
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ECS.AssemblyInfo.cs
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ECS.csproj.CoreCompileInputs.cache
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ECS.dll
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\refint\ECS.dll
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ECS.pdb
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ECS.genruntimeconfig.cache
+C:\Users\Monty\source\Repos\ECSversusOOP\ECS\obj\Debug\net8.0\ref\ECS.dll
